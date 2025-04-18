@@ -3,6 +3,6 @@ title: About
 weight: 1
 ---
 
-# Tabs 111
+## In progress
 
-Tabs let you organize content by context, for example installation instructions for each supported platform.
+Page not created yet
