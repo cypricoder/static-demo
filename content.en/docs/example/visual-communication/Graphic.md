@@ -1,5 +1,5 @@
 ---
-title: iOS
+title: Graphic
 weight: 2
 bookToc: false
 ---
