@@ -35,6 +35,9 @@ enableGitInfo = true
 
 [menu]
 [[menu.before]]
+name = "Github"
+url = "https://github.com/sutsurup"
+weight = 10
 [[menu.after]]
   name = "Github"
   url = "https://github.com/sutsurup"
