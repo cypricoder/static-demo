@@ -3,8 +3,6 @@ title: Who is
 type: docs
 ---
 
-# Welcome
-
 {{% columns %}}
 ## About Me
 
