@@ -1,5 +1,5 @@
 ---
-title: Linux
+title: How do I make a Hackintosh?
 weight: 2
 ---
 # Caput vino delphine in tamen vias

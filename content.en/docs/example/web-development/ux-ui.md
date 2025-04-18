@@ -1,6 +1,6 @@
 ---
-title: Linux
-weight: 2
+title: UX/UI
+weight: 1
 ---
 # Caput vino delphine in tamen vias
 

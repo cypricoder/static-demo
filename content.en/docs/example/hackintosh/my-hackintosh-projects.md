@@ -1,6 +1,6 @@
 ---
-title: macOS
-weight: 1
+title: My Hackintosh projects
+weight: 3
 ---
 # Caput vino delphine in tamen vias
 
