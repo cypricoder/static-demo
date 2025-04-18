@@ -1,33 +1,3 @@
-<!--
----
-date: 2014-03-10
-linktitle: Migrating from Jekyll
-menu:
-  main:
-    parent: tutorials
-prev: /tutorials/mathjax
-title: Migrate to Hugo from Jekyll
-weight: 10
----
--->
-
-+++
-title = "Getting Started with Hugo"
-description = ""
-tags = [
-    "go",
-    "golang",
-    "hugo",
-    "development",
-]
-date = "2014-04-02"
-categories = [
-    "Development",
-    "golang",
-]
-menu = "main"
-+++
-
 # Tabs
 
 Tabs let you organize content by context, for example installation instructions for each supported platform.
