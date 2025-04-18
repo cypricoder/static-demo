@@ -34,7 +34,9 @@ enableGitInfo = true
   weight = 2
 
 [menu]
-# [[menu.before]]
+[[menu.before]]
+{{ partial "social-icons.html" . }}
+
 [[menu.after]]
   name = "Github"
   url = "https://github.com/sutsurup"
