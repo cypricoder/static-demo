@@ -1,5 +1,5 @@
 ---
-title: Without ToC
+title: Communication
 weight: 2
 bookToc: false
 ---

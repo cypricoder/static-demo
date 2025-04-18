@@ -1,5 +1,5 @@
 ---
-title: With ToC
+title: Graphic
 weight: 1
 ---
 # Caput vino delphine in tamen vias
