@@ -18,4 +18,4 @@ I’m always open to new ideas, collaborations, or just a good conversation abou
 ## What I Believe
 
 I believe in the power of clear communication, thoughtful design, and the right tools to make ideas come to life.  
-I’m currently working on a few projects that blend creativity and technology — more on that soon!
+I’m currently working on a few projects that blend creativity and technology — more on that soon! :)
